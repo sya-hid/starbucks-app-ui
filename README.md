@@ -25,3 +25,4 @@
 <img src="assets/previews/home.png" alt="Home Page" width="200">
 <img src="assets/previews/detail.png" alt="Detail Page" width="200">
 </p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sya-hid.starbucks-app-ui"/>  
